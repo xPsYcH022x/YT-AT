@@ -56,8 +56,8 @@ echo "- Download cli tool...
 # Tải tool Revanced
 Vsionnnnn="$(Xem https://github.com/revanced/revanced-cli/releases | grep -m1 '/revanced-cli/tree' | sed 's|v||g' | cut -d \" -f2)"
 Taive "https://github.com/revanced/revanced-cli/releases/download/v${Vsionnnnn##*/}/revanced-cli-${Vsionnnnn##*/}-all.jar" "$Likk/lib/revanced-cli.jar"       
-Vsiogddh="$(Xem https://github.com/revanced/revanced-patches/releases | grep -m1 '/revanced-patches/tree' | sed 's|v||g' | cut -d \" -f2)"
-Taive "https://github.com/revanced/revanced-patches/releases/download/v${Vsiogddh##*/}/revanced-patches-${Vsiogddh##*/}.jar" "$Likk/lib/revanced-patches.jar"       
+Vsiogddh="$(Xem https://github.com/Leddaz/revanced-patches/releases | grep -m1 '/revanced-patches/tree' | sed 's|v||g' | cut -d \" -f2)"
+Taive "https://github.com/Leddaz/revanced-patches/releases/download/v${Vsiogddh##*/}/revanced-patches-${Vsiogddh##*/}.jar" "$Likk/lib/revanced-patches.jar"       
 Vdbbd="$(Xem https://github.com/revanced/revanced-integrations/releases | grep -m1 '/revanced-integrations/tree' | sed 's|v||g' | cut -d \" -f2)"
 Taive "https://github.com/revanced/revanced-integrations/releases/download/v${Vdbbd##*/}/app-release-unsigned.apk" "$Likk/lib/revanced-integrations.apk"       
 
