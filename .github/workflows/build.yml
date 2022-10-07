@@ -9,9 +9,9 @@ on:
         required: false
         default: 'Default'
       DEVICE:
-        description: 'Select device'
+        description: 'Seleziona dispositivo'
         required: false
-        default: 'arm64-v8a'
+        default: 'armeabi-v7a'
         type: choice
         options:
           - armeabi-v7a
@@ -19,21 +19,21 @@ on:
           - x86
           - x86_64
       FEATURE:
-        description: 'Turn off the feature, Add spaces to distinguish each feature'
+        description: 'Disattiva la funzione, aggiungi spazi per distinguere ogni caratteristica'
         required: false
         default: 'enable-debugging premium-heading '
       ICONS:
-        description: 'Original icon & Name'
+        description: 'Icona e nome originali'
         required: false
         type: boolean
         default: false
       OPTIMIZATION:
-        description: 'Video loaded speed'
+        description: 'Velocità di caricamento video'
         required: false
         type: boolean
         default: true
       SHORTS:
-        description: 'Show button shorts video'
+        description: 'Mostra il pulsante shorts video'
         required: false
         type: boolean
         default: true
@@ -41,7 +41,7 @@ on:
         description: 'Pip rounded (root)'
         required: false
         type: boolean
-        default: false
+        default: true
 jobs:
   build1:
     name: 'NO ROOT...'
