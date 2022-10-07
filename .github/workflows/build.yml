@@ -26,7 +26,7 @@ on:
         description: 'Original icon & Name'
         required: false
         type: boolean
-        default: true
+        default: false
       OPTIMIZATION:
         description: 'Video loaded speed'
         required: false
