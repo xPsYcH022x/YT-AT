@@ -318,3 +318,54 @@
 <string name="revanced_remember_video_quality_selection_title" public="false">Ghi nhớ chất lượng video hiện tại</string>
 <string name="revanced_remember_video_quality_selection_summary_on" public="false">Chất lượng video hiện tại hiện không thay đổi</string>
 <string name="revanced_remember_video_quality_selection_summary_off" public="false">Chất lượng video sẽ được ghi nhớ cho đến khi chọn chất lượng mới</string>
+<string name="revanced_mix_playlists_title" public="false">Ẩn danh sách phát kết hợp</string>
+<string name="revanced_mix_playlists_summary_on" public="false">Đã ẩn</string>
+<string name="revanced_mix_playlists_summary_off" public="false">Đang hiện</string>
+<string name="revanced_hide_captions_button_title" public="false">Ẩn nút phụ đề</string>
+<string name="revanced_hide_captions_button_summary_on" public="false">Đã ẩn</string>
+<string name="revanced_hide_captions_button_summary_off" public="false">Đang hiện</string>
+<string name="revanced_hide_hide_artist_card_title" public="false">Ẩn thẻ nghệ sĩ</string>
+<string name="revanced_hide_hide_artist_card_on" public="false">Đã ẩn</string>
+<string name="revanced_hide_hide_artist_card_off" public="false">Đang hiện</string>
+
+<string name="revanced_hide_album_cards_title" public="false">Ẩn thẻ album</string>
+<string name="revanced_hide_album_cards_summary_on" public="false">Đã ẩn</string>
+<string name="revanced_hide_album_cards_summary_off" public="false">Đang hiện</string>
+
+<string name="revanced_hide_comments_section_title" public="false">Xóa phần nhận xét</string>
+<string name="revanced_hide_comments_section_summary_on" public="false">Đã ẩn</string>
+<string name="revanced_hide_comments_section_summary_off" public="false">Đang hiện</string>
+
+
+<string name="revanced_hide_preview_comment_title" public="false">Ẩn nhận xét xem trước</string>
+<string name="revanced_hide_preview_comment_on" public="false">Đã ẩn</string>
+<string name="revanced_hide_preview_comment_off" public="false">Đang hiện</string>
+<string name="revanced_comments_title" public="false">Nhận xét</string><string name="revanced_comments_summary" public="false">Quản lý khả năng hiển thị của phần nhận xét</string>
+
+<string name="revanced_hide_crowdfunding_box_title" public="false">Ẩn hộp huy động vốn cộng đồng</string>
+<string name="revanced_hide_crowdfunding_box_summary_on" public="false">Đã ẩn</string>
+<string name="revanced_hide_crowdfunding_box_summary_off" public="false">Đang hiện</string>
+
+<string name="revanced_hide_shorts_comments_button_title" public="false">Ẩn nút bình luận cho Short video</string>
+<string name="revanced_hide_shorts_comments_button_on" public="false">Đã ẩn</string>
+<string name="revanced_hide_shorts_comments_button_off" public="false">Đang hiện</string>
+
+<string name="revanced_hide_watch_in_vr_title" public="false">Ẩn tùy chọn Xem trong thực tế ảo</string>
+<string name="revanced_hide_watch_in_vr_summary_on" public="false">Đã ẩn</string>
+<string name="revanced_hide_watch_in_vr_summary_off" public="false">Đang hiện</string>
+
+<string name="revanced_fix_playback_title" public="false">Khắc phục sự cố phát lại video</string>
+<string name="revanced_fix_playback_summary_on" public="false">Đã bật</string>
+<string name="revanced_fix_playback_summary_off" public="false">Đã tắt</string>
+
+<string name="revanced_hide_endscreen_cards_title" public="false">Ẩn thẻ màn hình kết thúc</string>
+<string name="revanced_hide_endscreen_cards_summary_on" public="false">Đã ẩn</string>
+<string name="revanced_hide_endscreen_cards_summary_off" public="false">Đang hiện</string>
+
+<string name="revanced_hide_infocards_title" public="false">Ẩn thẻ thông tin</string>
+<string name="revanced_hide_infocards_summary_on" public="false">Đã ẩn</string>
+<string name="revanced_hide_infocards_summary_off" public="false">Đang hiện</string>
+
+<string name="revanced_uri_redirect_title" public="false">Mở liên kết trực tiếp</string>
+<string name="revanced_uri_redirect_summary_on" public="false">Đang bật</string>
+<string name="revanced_uri_redirect_summary_off" public="false">Đã tắt</string>
